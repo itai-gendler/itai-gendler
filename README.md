@@ -1,8 +1,6 @@
 ### Hi, I'm Itai Gendler 👋
 
-Engineering leader. Previously SDLC Cloud R&D Group Manager at Huawei and Chief Architect at Codefresh.
-
-Today I'm building **[pdd-kit](https://github.com/itai-gendler/pdd-kit)**: Product-Driven Development for coding agents. It gives agents and humans a shared Product Model that is git-tracked, reviewable and verifiable.
+Creator and maintainer of **[pdd-kit](https://github.com/itai-gendler/pdd-kit)**: Product-Driven Development for coding agents. It gives agents and humans a shared Product Model that is git-tracked, reviewable and verifiable.
 
 ```sh
 npx pdd-kit install
